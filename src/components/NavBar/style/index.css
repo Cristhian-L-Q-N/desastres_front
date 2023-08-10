@@ -1,0 +1,22 @@
+.navbar-container {
+    width: 20vw;
+    height: 100vh;
+    /*background: chartreuse;*/
+    background-color:#202324;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .navbar-container h3 {
+    margin: 36px 0px 56px 0px;
+    color: #f79009;
+    margin-left: 36px;
+    font-size: 20px;
+  }
+  .navbar-container .-last-option {
+
+  }
+  a {
+    text-decoration: none;
+  }
+
+

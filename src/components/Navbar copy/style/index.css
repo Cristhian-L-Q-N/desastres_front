@@ -1,0 +1,13 @@
+.navbar-container-uwu{
+    display: flex;
+    
+    flex-direction: row;
+    background-color:rgb(44, 42, 42);
+    justify-content: space-around;
+    align-items: center;
+    width: 70vw;
+    height: 6vh;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
